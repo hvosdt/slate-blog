@@ -4,8 +4,6 @@
 import { defineConfig } from './src/helpers/config-helper';
 
 export default defineConfig({
-  lang: 'ru-RU',
-  
   avatar: '/logo.png',
   title: 'Читай, замышляй',
   description: 'Стихи, сатира Давида Шуле.',
@@ -16,7 +14,7 @@ export default defineConfig({
   },
   socialLinks: [
     {
-      icon: 'TG',
+      icon: 'telegram',
       link: 'https://t.me/davidshule',
     },
 ]

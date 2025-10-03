@@ -12,10 +12,4 @@ export default defineConfig({
   footer: {
     copyright: '© 2025 Давид Шуле',
   },
-  socialLinks: [
-    {
-      icon: 'github',
-      link: 'https://t.me/davidshule',
-    },
-]
 });

@@ -70,4 +70,7 @@
   &.mail {
     --icon: url('../../assets/images/mail.svg');
   }
+  &.telegram {
+    --icon: url('../../assets/images/telegram.svg');
+  }
 }

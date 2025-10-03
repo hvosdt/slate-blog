@@ -6,7 +6,7 @@ import { defineConfig } from './src/helpers/config-helper';
 export default defineConfig({
   lang: 'en-US',
   site: 'https://slate-blog-demo.vercel.app',
-  avatar: '/logo.svg',
+  avatar: '/logo.png',
   title: 'Давид Шуле',
   description: 'Читай, замышляй!',
   lastModified: true,

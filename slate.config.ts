@@ -14,7 +14,7 @@ export default defineConfig({
   },
   socialLinks: [
     {
-      icon: 'telegram',
+      icon: 'link',
       link: 'https://t.me/davidshule',
     },
 ]
